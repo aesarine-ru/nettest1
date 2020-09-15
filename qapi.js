@@ -5,19 +5,29 @@ export default {
 			"pageUrl": "root",
 			"name": "root",
 			"children": [
-				"5f589dbaa201941d28e1a25a",
-				"5f589dbaa201941d28e1a25c"
+				"5f044c4246cf7b001ed1d2b7",
+				"5f044c4246cf7b001ed1d2b9",
+				"5f15630646cf7b001ed1e129"
 			]
 		},
-		"5f589dbaa201941d28e1a25a": {
-			"id": "5f589dbaa201941d28e1a25a",
+		"5f044c4246cf7b001ed1d2b7": {
+			"id": "5f044c4246cf7b001ed1d2b7",
 			"name": "404",
 			"pageUrl": "404"
 		},
-		"5f589dbaa201941d28e1a25c": {
-			"id": "5f589dbaa201941d28e1a25c",
+		"5f044c4246cf7b001ed1d2b9": {
+			"id": "5f044c4246cf7b001ed1d2b9",
 			"name": "index",
 			"pageUrl": "index"
+		},
+		"5f15630646cf7b001ed1e129": {
+			"id": "5f15630646cf7b001ed1e129",
+			"pageUrl": "card",
+			"name": "card",
+			"seo": {
+				"description": "",
+				"title": ""
+			}
 		}
 	},
 	"projectType": "gatsby"
